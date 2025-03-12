@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+pyngrok
+nest_asyncio
+face_recognition
+dlib
+pillow
+numpy
